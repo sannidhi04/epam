@@ -3,7 +3,7 @@ class Main
 {
     public static void main(String[] args)
 {
-    Sytsem.out.print("hi");
+    Sytsem.out.print("epam");
 }
 }
 }
